@@ -28,16 +28,3 @@ Check out the app live here:
 - **[TheMealDB API](https://www.themealdb.com/)**
 
 ---
-
-## 📁 Project Structure
-
-recipe/
-├── assets/
-│ └── style.css # Styling for the app
-├── index.html # Main HTML file
-├── main.js # JavaScript entry point
-├── modules/
-│ ├── api.js # API functions for fetching data
-│ ├── dom.js # Handles UI rendering and updates
-│ └── utils.js # Helper utilities
-└── README.md # This file
